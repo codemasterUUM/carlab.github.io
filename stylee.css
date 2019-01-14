@@ -1,0 +1,107 @@
+body{
+    background:#333;
+    color : #fff;
+    
+
+}
+
+.navbar{
+
+    border-bottom :#008ed6 3px solid;
+    opacity: 0.8;
+    background-color: black;
+
+}
+
+#home-section{
+    background-image: url('./background2.jpg');
+    background-repeat: no-repeat;
+    background-size :cover;
+    background-attachment: fixed;
+    min-height: 700px;
+
+}
+
+#myVideo {
+    
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    
+  }
+
+#home-section.dark-overlay{
+    position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+    min-height:700px;
+    background:rgba(0,0,0,0.7);
+    
+}
+
+#home-section.home-inner{
+    padding-top:150px;
+}
+
+#home-section.card-form{
+    opacity: 0.8;
+}
+
+#maps2{
+   height:500px;
+    
+}
+
+
+#home-section .fas,
+#create-section .fas{
+    background:lightslategray;
+    color :lightgreen;
+    padding: 5px;
+    border-radius:5px;
+}
+
+#explore-section .fas,
+#share-section .fas{
+
+    background: #333;
+    color : #fff;
+    padding:5px;
+    border-radius : 5px;
+
+}
+
+#colo1 {
+
+    color :white;
+    margin-left: 50px;
+}
+
+#home-section .d-flex{
+
+    color: black
+}
+
+#textc{
+
+    font-size: 40px;
+}
+
+#textd{
+color: black;
+}
+
+#pic1{
+
+margin-top: 50px;
+width: 150px;
+height :200px;
+
+}
+
+n1{
+ margin-top: 20px;
+}
